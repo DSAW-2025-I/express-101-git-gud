@@ -1,0 +1,22 @@
+{
+  "name": "express-101-git-gud",
+  "version": "1.0.0",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/pKOlJAgR)\r Nombres: Diego Eduardo Escalante Garcia, Bruno Elias Perez Merino",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSAW-2025-I/express-101-git-gud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DSAW-2025-I/express-101-git-gud/issues"
+  },
+  "homepage": "https://github.com/DSAW-2025-I/express-101-git-gud#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
