@@ -2,7 +2,7 @@
 
 <br>
 Nombres: Diego Eduardo Escalante Garcia, Bruno Elias Perez Merino <br>
-Despliegue en Vercel: https://express-101-git-mn96iszmf-diego-escalantes-projects.vercel.app/<br>
+Despliegue en Vercel: https://express-101-git-299r9e97d-diego-escalantes-projects.vercel.app/<br>
 
 
 # Taller en Parejas: Creación de un Endpoint con Express.js
