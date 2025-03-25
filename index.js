@@ -4,6 +4,10 @@ const PORT = process.env.PORT || 3000;
 
 const app = express();
 
+app.get('/', (req, res) => {
+    res.json({ message: "If you want to see the information of a student add /user-info/id to the url" });
+});
+
 const users = {
   "1": {
     name: "Diego",
@@ -24,7 +28,7 @@ app.get("/user-info/:id", (req, res) => {
   if (user) {
     res.json(user);
   } else {
-    res.status(404).json({ error: "Usuario no encontrado" });
+    res.status(404).json({ error: "User not found" });
   }
 });
 
