@@ -1,7 +1,9 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/pKOlJAgR)
 
-Nombres: Diego Eduardo Escalante Garcia, Bruno Elias Perez Merino
-https://express-101-public.vercel.app
+<br>
+Nombres: Diego Eduardo Escalante Garcia, Bruno Elias Perez Merino <br>
+Despliegue en Vercel: https://express-101-git-mn96iszmf-diego-escalantes-projects.vercel.app/<br>
+
 
 # Taller en Parejas: Creación de un Endpoint con Express.js
 
